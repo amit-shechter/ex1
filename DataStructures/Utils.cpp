@@ -1,6 +1,7 @@
 #include "Utils.h"
 #include "Stack.h"
 #include <iostream>
+
 using namespace std;
 
 void reverse(int* nums, int size)
